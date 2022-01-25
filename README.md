@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uiseok0227
-- 👀 I’m interested in ... health, fashion, photo
+- 👀 I’m interested in ... fashion, photo, 
 - 🌱 I’m currently learning ...Java Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact uiseok227@gmail.com
