@@ -33,8 +33,8 @@
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/c++-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-A8B9CC?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-A8B9CC?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <br>
